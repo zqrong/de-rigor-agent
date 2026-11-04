@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Project specific
+.files/
+temp/
+agent_web_runs/
+agent_cli_runs/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env

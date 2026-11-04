@@ -1,0 +1,8 @@
+:root {
+  --primary: 288 42% 39% !important;
+  --ring: 288 42% 39% !important;
+}
+
+img.logo {
+    width: 500px;
+}

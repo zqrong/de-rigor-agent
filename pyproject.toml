@@ -1,0 +1,20 @@
+[project]
+name = "de-rigor-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.9.6",
+    "langchain>=1.2.7",
+    "langchain-openai>=1.1.7",
+    "markdown-it-py>=3,<5",
+    "matplotlib>=3.10.9",
+    "matplotlib-venn>=1.1.2",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+]
